@@ -10,8 +10,8 @@ This project visualizes Starbucks beverage data using Tableau. The dashboard pro
 
 ## Files in this Repository
 - **Starbucks_Dashboard.twbx**: Tableau packaged workbook containing the dashboard and data.
-- **Dashboard1.jpg**: Screenshot of the first dashboard.
-- **Dashboard2.jpg**: Screenshot of the second dashboard.
+- **Dashboard1.png**: Screenshot of the first dashboard.
+- **Dashboard2.png**: Screenshot of the second dashboard.
 
 ## Tools Used
 - **Tableau:** For dashboard creation and data visualization.
